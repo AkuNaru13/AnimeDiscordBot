@@ -1,0 +1,8 @@
+anime-discord-music-bot/
+├── bot.py
+├── .env.example
+├── requirements.txt
+├── README.md
+├── downloads/              # (gitignore this)
+├── LICENSE                 # (optional, e.g. MIT)
+└── .gitignore
